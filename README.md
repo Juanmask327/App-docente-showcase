@@ -1,5 +1,3 @@
-# App-docente-showcase
-
 # 📚 App Docente
 
 **Plataforma para digitalizar y automatizar el trabajo diario del docente de colegio:** asistencia, observador de convivencia, control de uniforme, notas, trabajos, calendario, archivos y ficha por estudiante, todo en un solo lugar.
